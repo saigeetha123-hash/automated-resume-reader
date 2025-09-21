@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Check",
+  "description": "An AI-powered dashboard for placement teams to manage job descriptions, batch-upload resumes, and analyze candidate relevance at scale.",
+  "requestFramePermissions": []
+}
